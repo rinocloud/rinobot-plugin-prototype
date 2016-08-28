@@ -4,7 +4,6 @@ This is a prototype structure for a rinobot plugin.
 
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [The package.json file](#the-package.json-file)
 - [Programming your plugin](#programming-your-plugin)
 - [Deploying your plugin](#deploying-your-plugin)
 
